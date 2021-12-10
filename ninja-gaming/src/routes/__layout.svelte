@@ -4,13 +4,13 @@
 </script>
 
 <header>
-  <Title title="Ninja Gaming Reviews" />
+  <Title title="Ninja Gaming Guides" />
 </header>
 <main>
   <slot></slot>
 </main>
 <footer>
-  <p>Copyright 2022 Ninja Gaming Reviews</p>
+  <p>Copyright 2022 Ninja Gaming Guides</p>
 </footer>
 
 <style>
