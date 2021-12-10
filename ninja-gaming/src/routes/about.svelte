@@ -1,5 +1,5 @@
 <script>
-  import Title from '$lib/title.svelte'
+  
 </script>
 
 <div class="about">
